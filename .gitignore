@@ -1,0 +1,12 @@
+# 编译生成的exe文件
+*.exe
+*.o
+*.out
+
+# VSCode 工作区临时文件
+.vscode/*.log
+.vscode/.cache
+
+# 系统文件
+.DS_Store
+Thumbs.db
